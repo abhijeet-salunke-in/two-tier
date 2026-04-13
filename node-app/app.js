@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Route
 app.get('/', (req, res) => {
-  res.json({ message: "sambsadashiv" });
+  res.json({ message: "hello sir two-tier app AUTOMATED successfully with different networks using JENKINS..." });
 });
 
 // Start server
